@@ -1,4 +1,21 @@
-# projectuts
+# Project UTS (Kulineria App)
+
+File Source Code:
+  * main.dart
+  * data.dart
+  * details_pages.dart
+  * home_pages.dart
+---
+
+- Images On Assets
+---
+
+ScreenShot:
+
+![1](https://user-images.githubusercontent.com/77041196/183651401-f84a45a7-3bda-46c4-8d8e-58e92ccf7001.jpeg)
+![2](https://user-images.githubusercontent.com/77041196/183651413-e7a6570f-898d-485b-8eaf-db0e9c51c5bb.jpeg)
+
+
 
 A new Flutter project.
 
